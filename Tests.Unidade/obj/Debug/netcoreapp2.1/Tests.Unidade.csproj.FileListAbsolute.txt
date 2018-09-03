@@ -1,0 +1,9 @@
+c:\Users\bruno.bender\source\repos\Tests\Tests.Unidade\bin\Debug\netcoreapp2.1\Tests.Unidade.deps.json
+c:\Users\bruno.bender\source\repos\Tests\Tests.Unidade\bin\Debug\netcoreapp2.1\Tests.Unidade.dll
+c:\Users\bruno.bender\source\repos\Tests\Tests.Unidade\bin\Debug\netcoreapp2.1\Tests.Unidade.pdb
+c:\Users\bruno.bender\source\repos\Tests\Tests.Unidade\obj\Debug\netcoreapp2.1\Tests.Unidade.csprojAssemblyReference.cache
+c:\Users\bruno.bender\source\repos\Tests\Tests.Unidade\obj\Debug\netcoreapp2.1\Tests.Unidade.csproj.CoreCompileInputs.cache
+c:\Users\bruno.bender\source\repos\Tests\Tests.Unidade\obj\Debug\netcoreapp2.1\Tests.Unidade.AssemblyInfoInputs.cache
+c:\Users\bruno.bender\source\repos\Tests\Tests.Unidade\obj\Debug\netcoreapp2.1\Tests.Unidade.AssemblyInfo.cs
+c:\Users\bruno.bender\source\repos\Tests\Tests.Unidade\obj\Debug\netcoreapp2.1\Tests.Unidade.dll
+c:\Users\bruno.bender\source\repos\Tests\Tests.Unidade\obj\Debug\netcoreapp2.1\Tests.Unidade.pdb

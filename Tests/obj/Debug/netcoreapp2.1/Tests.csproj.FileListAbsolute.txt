@@ -1,0 +1,14 @@
+c:\users\bruno.bender\source\repos\Tests\Tests\bin\Debug\netcoreapp2.1\Tests.deps.json
+c:\users\bruno.bender\source\repos\Tests\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.json
+c:\users\bruno.bender\source\repos\Tests\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.dev.json
+c:\users\bruno.bender\source\repos\Tests\Tests\bin\Debug\netcoreapp2.1\Tests.dll
+c:\users\bruno.bender\source\repos\Tests\Tests\bin\Debug\netcoreapp2.1\Tests.pdb
+c:\users\bruno.bender\source\repos\Tests\Tests\obj\Debug\netcoreapp2.1\Tests.csprojAssemblyReference.cache
+c:\users\bruno.bender\source\repos\Tests\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CoreCompileInputs.cache
+c:\users\bruno.bender\source\repos\Tests\Tests\obj\Debug\netcoreapp2.1\Tests.RazorAssemblyInfo.cache
+c:\users\bruno.bender\source\repos\Tests\Tests\obj\Debug\netcoreapp2.1\Tests.RazorAssemblyInfo.cs
+c:\users\bruno.bender\source\repos\Tests\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfoInputs.cache
+c:\users\bruno.bender\source\repos\Tests\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfo.cs
+c:\users\bruno.bender\source\repos\Tests\Tests\obj\Debug\netcoreapp2.1\Tests.RazorTargetAssemblyInfo.cache
+c:\users\bruno.bender\source\repos\Tests\Tests\obj\Debug\netcoreapp2.1\Tests.dll
+c:\users\bruno.bender\source\repos\Tests\Tests\obj\Debug\netcoreapp2.1\Tests.pdb

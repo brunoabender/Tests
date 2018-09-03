@@ -1,0 +1,9 @@
+c:\Users\bruno.bender\source\repos\Tests\Tests.Compartilhado\bin\Debug\netcoreapp2.1\Tests.Compartilhado.deps.json
+c:\Users\bruno.bender\source\repos\Tests\Tests.Compartilhado\bin\Debug\netcoreapp2.1\Tests.Compartilhado.dll
+c:\Users\bruno.bender\source\repos\Tests\Tests.Compartilhado\bin\Debug\netcoreapp2.1\Tests.Compartilhado.pdb
+c:\Users\bruno.bender\source\repos\Tests\Tests.Compartilhado\obj\Debug\netcoreapp2.1\Tests.Compartilhado.csprojAssemblyReference.cache
+c:\Users\bruno.bender\source\repos\Tests\Tests.Compartilhado\obj\Debug\netcoreapp2.1\Tests.Compartilhado.csproj.CoreCompileInputs.cache
+c:\Users\bruno.bender\source\repos\Tests\Tests.Compartilhado\obj\Debug\netcoreapp2.1\Tests.Compartilhado.AssemblyInfoInputs.cache
+c:\Users\bruno.bender\source\repos\Tests\Tests.Compartilhado\obj\Debug\netcoreapp2.1\Tests.Compartilhado.AssemblyInfo.cs
+c:\Users\bruno.bender\source\repos\Tests\Tests.Compartilhado\obj\Debug\netcoreapp2.1\Tests.Compartilhado.dll
+c:\Users\bruno.bender\source\repos\Tests\Tests.Compartilhado\obj\Debug\netcoreapp2.1\Tests.Compartilhado.pdb

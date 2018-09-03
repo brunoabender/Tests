@@ -1,0 +1,9 @@
+c:\Users\bruno.bender\source\repos\Tests\Tests.Migrations\bin\Debug\netcoreapp2.1\Tests.Migrations.deps.json
+c:\Users\bruno.bender\source\repos\Tests\Tests.Migrations\bin\Debug\netcoreapp2.1\Tests.Migrations.dll
+c:\Users\bruno.bender\source\repos\Tests\Tests.Migrations\bin\Debug\netcoreapp2.1\Tests.Migrations.pdb
+c:\Users\bruno.bender\source\repos\Tests\Tests.Migrations\obj\Debug\netcoreapp2.1\Tests.Migrations.csprojAssemblyReference.cache
+c:\Users\bruno.bender\source\repos\Tests\Tests.Migrations\obj\Debug\netcoreapp2.1\Tests.Migrations.csproj.CoreCompileInputs.cache
+c:\Users\bruno.bender\source\repos\Tests\Tests.Migrations\obj\Debug\netcoreapp2.1\Tests.Migrations.AssemblyInfoInputs.cache
+c:\Users\bruno.bender\source\repos\Tests\Tests.Migrations\obj\Debug\netcoreapp2.1\Tests.Migrations.AssemblyInfo.cs
+c:\Users\bruno.bender\source\repos\Tests\Tests.Migrations\obj\Debug\netcoreapp2.1\Tests.Migrations.dll
+c:\Users\bruno.bender\source\repos\Tests\Tests.Migrations\obj\Debug\netcoreapp2.1\Tests.Migrations.pdb

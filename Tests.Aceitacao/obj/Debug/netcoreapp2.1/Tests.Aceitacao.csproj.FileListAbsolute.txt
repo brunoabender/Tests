@@ -1,0 +1,8 @@
+c:\Users\bruno.bender\source\repos\Tests\Tests.Aceitacao\bin\Debug\netcoreapp2.1\Tests.Aceitacao.deps.json
+c:\Users\bruno.bender\source\repos\Tests\Tests.Aceitacao\bin\Debug\netcoreapp2.1\Tests.Aceitacao.dll
+c:\Users\bruno.bender\source\repos\Tests\Tests.Aceitacao\bin\Debug\netcoreapp2.1\Tests.Aceitacao.pdb
+c:\Users\bruno.bender\source\repos\Tests\Tests.Aceitacao\obj\Debug\netcoreapp2.1\Tests.Aceitacao.csproj.CoreCompileInputs.cache
+c:\Users\bruno.bender\source\repos\Tests\Tests.Aceitacao\obj\Debug\netcoreapp2.1\Tests.Aceitacao.AssemblyInfoInputs.cache
+c:\Users\bruno.bender\source\repos\Tests\Tests.Aceitacao\obj\Debug\netcoreapp2.1\Tests.Aceitacao.AssemblyInfo.cs
+c:\Users\bruno.bender\source\repos\Tests\Tests.Aceitacao\obj\Debug\netcoreapp2.1\Tests.Aceitacao.dll
+c:\Users\bruno.bender\source\repos\Tests\Tests.Aceitacao\obj\Debug\netcoreapp2.1\Tests.Aceitacao.pdb

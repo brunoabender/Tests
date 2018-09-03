@@ -1,0 +1,8 @@
+c:\Users\bruno.bender\source\repos\Tests\Tests.Integracao\bin\Debug\netcoreapp2.1\Tests.Integracao.deps.json
+c:\Users\bruno.bender\source\repos\Tests\Tests.Integracao\bin\Debug\netcoreapp2.1\Tests.Integracao.dll
+c:\Users\bruno.bender\source\repos\Tests\Tests.Integracao\bin\Debug\netcoreapp2.1\Tests.Integracao.pdb
+c:\Users\bruno.bender\source\repos\Tests\Tests.Integracao\obj\Debug\netcoreapp2.1\Tests.Integracao.csproj.CoreCompileInputs.cache
+c:\Users\bruno.bender\source\repos\Tests\Tests.Integracao\obj\Debug\netcoreapp2.1\Tests.Integracao.AssemblyInfoInputs.cache
+c:\Users\bruno.bender\source\repos\Tests\Tests.Integracao\obj\Debug\netcoreapp2.1\Tests.Integracao.AssemblyInfo.cs
+c:\Users\bruno.bender\source\repos\Tests\Tests.Integracao\obj\Debug\netcoreapp2.1\Tests.Integracao.dll
+c:\Users\bruno.bender\source\repos\Tests\Tests.Integracao\obj\Debug\netcoreapp2.1\Tests.Integracao.pdb
